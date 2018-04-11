@@ -1,0 +1,8 @@
+2018-04-10 12:31:02,304 - INFO - You had select Chrome borwser.
+2018-04-10 12:31:02,305 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 12:31:08,465 - INFO - Starting chrome browser
+2018-04-10 12:31:10,083 - INFO - Open url:https://www.baidu.com
+2018-04-10 12:31:11,313 - INFO - Maximize the current window
+2018-04-10 12:31:11,316 - INFO - Set implicitly wait 10 seconds
+2018-04-10 12:31:13,319 - INFO - Sleep for 2 seconds
+2018-04-10 12:31:15,364 - INFO - Sleep for 2 seconds

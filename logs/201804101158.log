@@ -1,0 +1,12 @@
+2018-04-10 11:58:31,850 - INFO - You had select Chrome borwser.
+2018-04-10 11:58:31,851 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 11:58:37,920 - INFO - Starting chrome browser
+2018-04-10 11:58:39,507 - INFO - Open url:https://www.baidu.com
+2018-04-10 11:58:40,705 - INFO - Maximize the current window
+2018-04-10 11:58:40,708 - INFO - Set implicitly wait 10 seconds
+2018-04-10 11:58:40,846 - INFO - Had find the element  设置  successful by link_text via value: 设置 
+2018-04-10 11:58:42,930 - INFO - Sleep for 2 seconds
+2018-04-10 11:58:43,046 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 
+2018-04-10 11:58:45,187 - INFO - Sleep for 2 seconds
+2018-04-10 11:58:45,262 - INFO - Had find the element 新闻  successful by name via value: tj_trnews 
+2018-04-10 11:58:45,356 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 

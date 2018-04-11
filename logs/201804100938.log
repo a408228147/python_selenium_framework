@@ -1,0 +1,72 @@
+2018-04-10 09:38:15,633 - INFO - You had select Chrome borwser.
+2018-04-10 09:38:15,634 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 09:38:21,751 - INFO - Starting chrome browser
+2018-04-10 09:38:22,708 - INFO - Open url:https://www.baidu.com
+2018-04-10 09:38:23,885 - INFO - Maximize the current window
+2018-04-10 09:38:23,887 - INFO - Set implicitly wait 10 seconds
+2018-04-10 09:38:23,949 - INFO - Had find the element    successful by id via value: kw 
+2018-04-10 09:38:24,454 - INFO - Had type ' selenium ' in inputBox
+2018-04-10 09:38:24,567 - INFO - Had find the element   successful by xpath via value: //input[@id='su'] 
+2018-04-10 09:38:24,905 - INFO - The element   was clicked.
+2018-04-10 09:38:26,906 - INFO - Sleep for 2 seconds
+2018-04-10 09:38:27,515 - INFO - Had  take screenshot and save to folder :/screenshots
+2018-04-10 09:38:27,525 - INFO - Current page title is selenium_百度搜索 
+2018-04-10 09:38:27,572 - INFO - Had find the element    successful by id via value: kw 
+2018-04-10 09:38:27,859 - INFO - Had type ' python ' in inputBox
+2018-04-10 09:38:27,924 - INFO - Had find the element   successful by xpath via value: //input[@id='su'] 
+2018-04-10 09:38:28,079 - INFO - The element   was clicked.
+2018-04-10 09:38:30,079 - INFO - Sleep for 2 seconds
+2018-04-10 09:38:30,729 - INFO - Had  take screenshot and save to folder :/screenshots
+2018-04-10 09:38:30,741 - INFO - Current page title is python_百度搜索 
+2018-04-10 09:38:30,753 - INFO - Now Close and quit the borwser
+2018-04-10 09:38:33,923 - INFO - You had select Chrome borwser.
+2018-04-10 09:38:33,924 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 09:38:39,823 - INFO - Starting chrome browser
+2018-04-10 09:38:41,319 - INFO - Open url:https://www.baidu.com
+2018-04-10 09:38:42,544 - INFO - Maximize the current window
+2018-04-10 09:38:42,548 - INFO - Set implicitly wait 10 seconds
+2018-04-10 09:38:42,702 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 
+2018-04-10 09:38:45,763 - INFO - The page is change 
+2018-04-10 09:38:47,763 - INFO - Sleep for 2 seconds
+2018-04-10 09:38:47,943 - INFO - Had find the element  体育  successful by link_text via value: 体育 
+2018-04-10 09:38:49,857 - INFO - The page is change 
+2018-04-10 09:38:51,858 - INFO - Sleep for 2 seconds
+2018-04-10 09:38:51,968 - INFO - Had find the element  NBA赛程表 successful by xpath via value: //div[@class='schedule clearfix']/ul/li/a 
+2018-04-10 09:38:52,670 - INFO - The page is change 
+2018-04-10 09:38:54,671 - INFO - Sleep for 2 seconds
+2018-04-10 09:38:57,871 - INFO - You had select Chrome borwser.
+2018-04-10 09:38:57,872 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 09:39:03,705 - INFO - Starting chrome browser
+2018-04-10 09:39:05,162 - INFO - Open url:https://www.baidu.com
+2018-04-10 09:39:06,345 - INFO - Maximize the current window
+2018-04-10 09:39:06,348 - INFO - Set implicitly wait 10 seconds
+2018-04-10 09:39:06,457 - INFO - Had find the element    successful by id via value: kw 
+2018-04-10 09:39:07,105 - INFO - Had type ' selenium ' in inputBox
+2018-04-10 09:39:07,260 - INFO - Had find the element   successful by xpath via value: //input[@id='su'] 
+2018-04-10 09:39:08,932 - INFO - The element   was clicked.
+2018-04-10 09:39:10,932 - INFO - Sleep for 2 seconds
+2018-04-10 09:39:11,702 - INFO - Had  take screenshot and save to folder :/screenshots
+2018-04-10 09:39:11,717 - INFO - Current page title is selenium_百度搜索 
+2018-04-10 09:39:11,775 - INFO - Had find the element    successful by id via value: kw 
+2018-04-10 09:39:12,164 - INFO - Had type ' python ' in inputBox
+2018-04-10 09:39:12,263 - INFO - Had find the element   successful by xpath via value: //input[@id='su'] 
+2018-04-10 09:39:12,459 - INFO - The element   was clicked.
+2018-04-10 09:39:14,460 - INFO - Sleep for 2 seconds
+2018-04-10 09:39:15,087 - INFO - Had  take screenshot and save to folder :/screenshots
+2018-04-10 09:39:15,100 - INFO - Current page title is python_百度搜索 
+2018-04-10 09:39:15,110 - INFO - Now Close and quit the borwser
+2018-04-10 09:39:18,284 - INFO - You had select Chrome borwser.
+2018-04-10 09:39:18,285 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 09:39:23,968 - INFO - Starting chrome browser
+2018-04-10 09:39:24,990 - INFO - Open url:https://www.baidu.com
+2018-04-10 09:39:26,179 - INFO - Maximize the current window
+2018-04-10 09:39:26,182 - INFO - Set implicitly wait 10 seconds
+2018-04-10 09:39:26,323 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 
+2018-04-10 09:39:29,338 - INFO - The page is change 
+2018-04-10 09:39:31,338 - INFO - Sleep for 2 seconds
+2018-04-10 09:39:31,503 - INFO - Had find the element  体育  successful by link_text via value: 体育 
+2018-04-10 09:39:33,250 - INFO - The page is change 
+2018-04-10 09:39:35,250 - INFO - Sleep for 2 seconds
+2018-04-10 09:39:35,361 - INFO - Had find the element  NBA赛程表 successful by xpath via value: //div[@class='schedule clearfix']/ul/li/a 
+2018-04-10 09:39:35,967 - INFO - The page is change 
+2018-04-10 09:39:37,968 - INFO - Sleep for 2 seconds

@@ -1,0 +1,36 @@
+2018-04-10 11:01:44,129 - INFO - You had select Chrome borwser.
+2018-04-10 11:01:44,130 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 11:01:50,360 - INFO - Starting chrome browser
+2018-04-10 11:01:51,427 - INFO - Open url:https://www.baidu.com
+2018-04-10 11:01:52,653 - INFO - Maximize the current window
+2018-04-10 11:01:52,658 - INFO - Set implicitly wait 10 seconds
+2018-04-10 11:01:52,782 - INFO - Had find the element    successful by id via value: kw 
+2018-04-10 11:01:53,656 - INFO - Had type ' selenium ' in inputBox
+2018-04-10 11:01:53,765 - INFO - Had find the element   successful by xpath via value: //input[@id='su'] 
+2018-04-10 11:01:53,961 - INFO - The element   was clicked.
+2018-04-10 11:01:55,961 - INFO - Sleep for 2 seconds
+2018-04-10 11:01:56,748 - INFO - Had  take screenshot and save to folder :/screenshots
+2018-04-10 11:01:56,762 - INFO - Current page title is selenium_百度搜索 
+2018-04-10 11:01:56,825 - INFO - Had find the element    successful by id via value: kw 
+2018-04-10 11:01:57,173 - INFO - Had type ' python ' in inputBox
+2018-04-10 11:01:57,257 - INFO - Had find the element   successful by xpath via value: //input[@id='su'] 
+2018-04-10 11:01:57,449 - INFO - The element   was clicked.
+2018-04-10 11:01:59,450 - INFO - Sleep for 2 seconds
+2018-04-10 11:01:59,986 - INFO - Had  take screenshot and save to folder :/screenshots
+2018-04-10 11:01:59,997 - INFO - Current page title is python_百度搜索 
+2018-04-10 11:02:00,007 - INFO - Now Close and quit the borwser
+2018-04-10 11:02:03,157 - INFO - You had select Chrome borwser.
+2018-04-10 11:02:03,158 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 11:02:09,220 - INFO - Starting chrome browser
+2018-04-10 11:02:10,725 - INFO - Open url:https://www.baidu.com
+2018-04-10 11:02:11,917 - INFO - Maximize the current window
+2018-04-10 11:02:11,921 - INFO - Set implicitly wait 10 seconds
+2018-04-10 11:02:12,045 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 
+2018-04-10 11:02:15,186 - INFO - The page is change 
+2018-04-10 11:02:17,187 - INFO - Sleep for 2 seconds
+2018-04-10 11:02:17,363 - INFO - Had find the element  体育  successful by link_text via value: 体育 
+2018-04-10 11:02:18,982 - INFO - The page is change 
+2018-04-10 11:02:20,983 - INFO - Sleep for 2 seconds
+2018-04-10 11:02:21,091 - INFO - Had find the element  NBA赛程表 successful by xpath via value: //div[@class='schedule clearfix']/ul/li/a 
+2018-04-10 11:02:21,678 - INFO - The page is change 
+2018-04-10 11:02:23,678 - INFO - Sleep for 2 seconds

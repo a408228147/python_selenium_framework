@@ -1,0 +1,20 @@
+2018-04-10 15:50:34,010 - INFO - You had select Chrome borwser.
+2018-04-10 15:50:34,011 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 15:50:40,212 - INFO - Starting chrome browser
+2018-04-10 15:50:41,992 - INFO - Open url:https://www.baidu.com
+2018-04-10 15:50:43,192 - INFO - Maximize the current window
+2018-04-10 15:50:43,196 - INFO - Set implicitly wait 10 seconds
+2018-04-10 15:50:45,200 - INFO - Sleep for 2 seconds
+2018-04-10 15:50:54,323 - INFO - Sleep for 5 seconds
+2018-04-10 15:50:54,561 - INFO - Had find the element  羊漾漾漾  successful by link_text via value: 羊漾漾漾 
+2018-04-10 15:50:56,658 - INFO - Sleep for 2 seconds
+2018-04-10 15:50:56,886 - INFO - Had find the element  退出  successful by link_text via value: 退出 
+2018-04-10 15:50:57,127 - INFO - The page is change 
+2018-04-10 15:50:59,128 - INFO - Sleep for 2 seconds
+2018-04-10 15:50:59,471 - INFO - Had find the element  确定  successful by link_text via value: 确定 
+2018-04-10 15:50:59,961 - INFO - The page is change 
+2018-04-10 15:51:01,961 - INFO - Sleep for 2 seconds
+2018-04-10 15:51:02,685 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 
+2018-04-10 15:51:05,551 - INFO - The page is change 
+2018-04-10 15:51:05,727 - INFO - Had find the element  习近平出席博鳌亚洲论坛开幕式并发表主旨演讲  successful by p via value: 亚洲论坛 
+2018-04-10 15:51:06,176 - INFO - The page is change 

@@ -1,0 +1,13 @@
+2018-04-10 16:12:58,211 - INFO - You had select Chrome borwser.
+2018-04-10 16:12:58,212 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 16:13:04,022 - INFO - Starting chrome browser
+2018-04-10 16:13:05,474 - INFO - Open url:https://www.baidu.com
+2018-04-10 16:13:06,663 - INFO - Maximize the current window
+2018-04-10 16:13:06,667 - INFO - Set implicitly wait 10 seconds
+2018-04-10 16:13:08,670 - INFO - Sleep for 2 seconds
+2018-04-10 16:13:11,073 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 
+2018-04-10 16:13:11,522 - INFO - The page is change 
+2018-04-10 16:13:13,523 - INFO - Sleep for 2 seconds
+2018-04-10 16:13:15,524 - INFO - Sleep for 2 seconds
+2018-04-10 16:13:16,777 - INFO - Had find the element  习近平出席博鳌亚洲论坛开幕式并发表主旨演讲  successful by p via value: 亚洲论坛 
+2018-04-10 16:13:17,074 - INFO - The page is change 

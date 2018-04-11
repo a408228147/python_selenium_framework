@@ -1,0 +1,19 @@
+2018-04-10 16:54:15,676 - INFO - You had select Chrome borwser.
+2018-04-10 16:54:15,677 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 16:54:21,752 - INFO - Starting chrome browser
+2018-04-10 16:54:23,304 - INFO - Open url:https://www.baidu.com
+2018-04-10 16:54:24,500 - INFO - Maximize the current window
+2018-04-10 16:54:24,503 - INFO - Set implicitly wait 10 seconds
+2018-04-10 16:54:26,508 - INFO - Sleep for 2 seconds
+2018-04-10 16:54:29,006 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 
+2018-04-10 16:54:29,420 - INFO - The page is change 
+2018-04-10 16:54:31,421 - INFO - Sleep for 2 seconds
+2018-04-10 16:54:33,432 - INFO - Sleep for 2 seconds
+2018-04-10 16:54:35,442 - INFO - Sleep for 2 seconds
+2018-04-10 16:54:36,698 - INFO - Had find the element  习近平出席博鳌亚洲论坛开幕式并发表主旨演讲  successful by p via value: 亚洲论坛 
+2018-04-10 16:54:37,038 - INFO - The page is change 
+2018-04-10 16:54:39,038 - INFO - Sleep for 2 seconds
+2018-04-10 16:54:41,044 - INFO - Sleep for 2 seconds
+2018-04-10 16:54:43,045 - INFO - Sleep for 2 seconds
+2018-04-10 16:54:45,054 - INFO - Sleep for 2 seconds
+2018-04-10 16:54:46,241 - INFO - Had find the element  新华社海南博鳌4月10日电（记者 刘华、周慧敏、刘红霞）10日上午，博鳌亚洲论坛2018年年会在海南省博鳌开幕。国家主席习近平出席开幕式并发表题为《开放共创繁荣创新引领未来》的主旨演讲，强调各国要顺应时代潮流，坚持开放共赢，勇于变革创新，向着构建人类命运共同体的目标不断迈进；中国将坚持改革开放不动摇，继续推出扩大开放新的重大举措，同亚洲和世界各国一道，共创亚洲和世界的美好未来。 successful by xpath via value: //div[@class='main-aticle']/p[4] 

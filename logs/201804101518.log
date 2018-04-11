@@ -1,0 +1,20 @@
+2018-04-10 15:18:05,865 - INFO - You had select Chrome borwser.
+2018-04-10 15:18:05,866 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 15:18:11,711 - INFO - Starting chrome browser
+2018-04-10 15:18:13,172 - INFO - Open url:https://www.baidu.com
+2018-04-10 15:18:14,359 - INFO - Maximize the current window
+2018-04-10 15:18:14,363 - INFO - Set implicitly wait 10 seconds
+2018-04-10 15:18:16,367 - INFO - Sleep for 2 seconds
+2018-04-10 15:18:20,197 - INFO - Sleep for 2 seconds
+2018-04-10 15:18:22,197 - INFO - Sleep for 2 seconds
+2018-04-10 15:18:24,197 - INFO - Sleep for 2 seconds
+2018-04-10 15:18:37,782 - INFO - You had select Chrome borwser.
+2018-04-10 15:18:37,783 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 15:18:44,060 - INFO - Starting chrome browser
+2018-04-10 15:18:45,546 - INFO - Open url:https://www.baidu.com
+2018-04-10 15:18:46,750 - INFO - Maximize the current window
+2018-04-10 15:18:46,756 - INFO - Set implicitly wait 10 seconds
+2018-04-10 15:18:48,759 - INFO - Sleep for 2 seconds
+2018-04-10 15:18:51,218 - INFO - Had find the element  ÑòÑúÑúÑú  successful by link_text via value: ÑòÑúÑúÑú 
+2018-04-10 15:18:53,403 - INFO - Sleep for 2 seconds
+2018-04-10 15:18:53,624 - INFO - Had find the element  ÍË³ö  successful by link_text via value: ÍË³ö 

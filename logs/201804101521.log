@@ -1,0 +1,15 @@
+2018-04-10 15:21:07,648 - INFO - You had select Chrome borwser.
+2018-04-10 15:21:07,649 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 15:21:13,451 - INFO - Starting chrome browser
+2018-04-10 15:21:15,604 - INFO - Open url:https://www.baidu.com
+2018-04-10 15:21:16,795 - INFO - Maximize the current window
+2018-04-10 15:21:16,799 - INFO - Set implicitly wait 10 seconds
+2018-04-10 15:21:18,802 - INFO - Sleep for 2 seconds
+2018-04-10 15:21:20,935 - INFO - Had find the element  羊漾漾漾  successful by link_text via value: 羊漾漾漾 
+2018-04-10 15:21:23,107 - INFO - Sleep for 2 seconds
+2018-04-10 15:21:23,266 - INFO - Had find the element  退出  successful by link_text via value: 退出 
+2018-04-10 15:21:23,436 - INFO - The page is change 
+2018-04-10 15:21:25,437 - INFO - Sleep for 2 seconds
+2018-04-10 15:21:25,758 - INFO - Had find the element  确定  successful by link_text via value: 确定 
+2018-04-10 15:21:25,954 - INFO - The page is change 
+2018-04-10 15:21:27,954 - INFO - Sleep for 2 seconds

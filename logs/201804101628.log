@@ -1,0 +1,24 @@
+2018-04-10 16:28:26,151 - INFO - You had select Chrome borwser.
+2018-04-10 16:28:26,152 - INFO - The test server url is https://www.baidu.com.
+2018-04-10 16:28:31,957 - INFO - Starting chrome browser
+2018-04-10 16:28:33,419 - INFO - Open url:https://www.baidu.com
+2018-04-10 16:28:34,607 - INFO - Maximize the current window
+2018-04-10 16:28:34,611 - INFO - Set implicitly wait 10 seconds
+2018-04-10 16:28:36,613 - INFO - Sleep for 2 seconds
+2018-04-10 16:28:39,174 - INFO - Had find the element  新闻  successful by link_text via value: 新闻 
+2018-04-10 16:28:39,684 - INFO - The page is change 
+2018-04-10 16:28:41,685 - INFO - Sleep for 2 seconds
+2018-04-10 16:28:43,697 - INFO - Sleep for 2 seconds
+2018-04-10 16:28:45,704 - INFO - Sleep for 2 seconds
+2018-04-10 16:28:46,936 - INFO - Had find the element  习近平出席博鳌亚洲论坛开幕式并发表主旨演讲  successful by p via value: 亚洲论坛 
+2018-04-10 16:28:47,234 - INFO - The page is change 
+2018-04-10 16:28:49,236 - INFO - Sleep for 2 seconds
+2018-04-10 16:28:51,242 - INFO - Sleep for 2 seconds
+2018-04-10 16:28:53,242 - INFO - Sleep for 2 seconds
+2018-04-10 16:28:55,250 - INFO - Sleep for 2 seconds
+2018-04-10 16:29:06,347 - INFO - not find by xpath to element
+2018-04-10 16:29:06,347 - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class=main-aticle]/p[3]"}
+  (Session info: chrome=64.0.3282.186)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-04-10 16:29:07,632 - INFO - Had  take screenshot and save to folder :/screenshots
